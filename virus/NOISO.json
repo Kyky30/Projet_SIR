@@ -1,0 +1,15 @@
+{
+    "initial_sains": 9990,
+    "initial_contamines": 0,
+    "initial_infectes": 10,
+    "initial_retablis": 0,
+    "initial_morts": 0,
+    "prob_contamination": 0.15,
+    "duree_incubation": 3,
+    "duree_infection": 7,
+    "prob_vaccination": 0.05,
+    "duree_immunite": 30,
+    "taux_mortalite": 0.02,
+    "nombre_jours": 100,
+    "discretisation": 10
+}
